@@ -54,10 +54,8 @@ class Atividade2 {
                 System.out.println("    instrucao5;");
                 System.out.println("}\n");
                 break;
-
             default:
                 System.out.println("\nOpcao invalida\n");
-
         }
     }
 }
